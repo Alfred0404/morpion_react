@@ -14,3 +14,7 @@ Choose `React` and `Javascript`
 Run `npm i` to install all the dependencies and generate the node_modules file
 
 Run `npm run dev` to launch the server.
+
+## License
+
+This code is under a license, please mention me if you use this code
