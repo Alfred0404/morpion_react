@@ -5,9 +5,9 @@ Little Tic Tac Toe coded in [React.js](https://react.dev/)
 
 ## Getting started
 
-Create the project with `npm create vite@latest`
-
 After installing [Node.js](https://nodejs.org/fr)
+
+Create the project with `npm create vite@latest`
 
 Choose `React` and `Javascript`
 
