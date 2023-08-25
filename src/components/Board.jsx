@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Square from "./square";
 
+
 export default function Board() {
 
     const [x_is_next, set_x_is_next] = useState(true);
